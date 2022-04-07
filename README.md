@@ -2,8 +2,14 @@
 
 ---
 
-This is the official implementation of "Unsupervised Cycle-consistent Generative Adversarial Networks for Pan-sharpening".
+This is the official implementation of ["Unsupervised Cycle-consistent Generative Adversarial Networks for Pan-sharpening".](https://arxiv.org/abs/2109.09395)
+The paper is accepted to TGRS2022.
 
+## Overview of UCGAN
+![image](src/overview.png)
+
+## Architecture of UCGAN
+![image](src/architecture.png)
 
 ### Requirements
 This environment is mainly based on python=3.6 with CUDA=10.2
@@ -33,3 +39,15 @@ python main.py -c configs/ucgan.py
 ```
 
 You can modify the config file 'configs/ucgan.py' for different purposes.
+
+# Citing UCGAN
+Consider cite UCGAN in your publications if it helps your research.
+
+```
+@article{zhou2021unsupervised,
+  title={Unsupervised Cycle-consistent Generative Adversarial Networks for Pan-sharpening},
+  author={Zhou, Huanyu and Liu, Qingjie and Wang, Yunhong},
+  journal={arXiv preprint arXiv:2109.09395},
+  year={2022}
+}
+```
