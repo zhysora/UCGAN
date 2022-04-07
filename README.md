@@ -46,7 +46,7 @@ Consider cite UCGAN in your publications if it helps your research.
 ```
 @article{zhou2021unsupervised,
   title={Unsupervised Cycle-consistent Generative Adversarial Networks for Pan-sharpening},
-  author={Zhou, Huanyu and Liu, Qingjie and Wang, Yunhong},
+  author={Zhou, Huanyu and Liu, Qingjie and Weng, Dawei and Wang, Yunhong},
   journal={arXiv preprint arXiv:2109.09395},
   year={2022}
 }
