@@ -44,10 +44,13 @@ You can modify the config file 'configs/ucgan.py' for different purposes.
 Consider cite UCGAN in your publications if it helps your research.
 
 ```
-@article{zhou2021unsupervised,
-  title={Unsupervised Cycle-consistent Generative Adversarial Networks for Pan-sharpening},
+@article{zhou2022unsupervised,
+  title={Unsupervised Cycle-Consistent Generative Adversarial Networks for Pan Sharpening},
   author={Zhou, Huanyu and Liu, Qingjie and Weng, Dawei and Wang, Yunhong},
-  journal={arXiv preprint arXiv:2109.09395},
-  year={2022}
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--14},
+  year={2022},
+  publisher={IEEE}
 }
 ```
