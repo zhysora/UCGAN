@@ -15,7 +15,7 @@ The paper is accepted to TGRS2022.
 This environment is mainly based on python=3.6 with CUDA=10.2
 
 ```shell
-conda create -n panformer python=3.6
+conda create -n ucgan python=3.6
 conda activate ucgan
 conda install pytorch=1.7.1 torchvision=0.2.2 cudatoolkit=10.2
 pip install mmcv==1.2.7
